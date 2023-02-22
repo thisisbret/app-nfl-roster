@@ -1,4 +1,4 @@
-name: streamlit
+name: app-nfl-roster
 channels:
   - defaults
   - conda-forge
@@ -288,4 +288,3 @@ dependencies:
   - zipp=3.11.0=py310hca03da5_0
   - zlib=1.2.13=h5a0b063_0
   - zstd=1.5.2=h8574219_0
-prefix: /Users/bret/miniconda3/envs/streamlit
