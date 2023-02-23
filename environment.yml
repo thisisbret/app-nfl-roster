@@ -225,7 +225,6 @@ dependencies:
   - pyproj=3.1.0=py310h61a95b3_4
   - pyrsistent=0.18.0=py310h1a28f6b_0
   - pysocks=1.7.1=py310hca03da5_0
-  - python=3.10.9=hc0d8a6c_0
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python-fastjsonschema=2.16.2=py310hca03da5_0
   - python-slugify=5.0.2=pyhd3eb1b0_0
